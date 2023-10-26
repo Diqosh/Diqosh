@@ -11,4 +11,5 @@
 ![](https://komarev.com/ghpvc/?username=Diqosh)
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Diqosh)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Темная большая:   
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14348960&theme=dark)](https://stackoverflow.com/users/14348960/diqosh) 
