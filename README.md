@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/](https://drive.google.com/file/d/1OiR3BBv1ZD6a5ZWQH3exzjkozLQlgqoD/view?usp=sharing" target="_blank">Dimashka</a> 
+<h1 align="center">Hi there, I'm <a href="https://drive.google.com/file/d/1OiR3BBv1ZD6a5ZWQH3exzjkozLQlgqoD/view?usp=sharing" target="_blank">Dimashka</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student</h3>
 
