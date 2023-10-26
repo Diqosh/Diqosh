@@ -9,3 +9,6 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Diqosh&theme=dark)](https://github.com/Diqosh/leetcode-stats)
 
 ![](https://komarev.com/ghpvc/?username=Diqosh)
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Diqosh)](https://github.com/Diqosh/github-readme-activity-graph)
