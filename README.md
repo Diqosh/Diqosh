@@ -4,3 +4,6 @@
 
 Большой (large):  
 [![codewars](https://www.codewars.com/users/Diqosh/badges/large)](https://www.codewars.com/users/Diqosh)
+
+Темная тема:  
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Diqosh&theme=dark)](https://github.com/Diqosh/leetcode-stats)
