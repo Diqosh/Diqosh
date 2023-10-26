@@ -7,3 +7,5 @@
 
 Темная тема:  
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Diqosh&theme=dark)](https://github.com/Diqosh/leetcode-stats)
+
+![](https://komarev.com/ghpvc/?username=Diqosh)
