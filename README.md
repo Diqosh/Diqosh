@@ -13,3 +13,19 @@
 
 Темная большая:   
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14348960&theme=dark)](https://stackoverflow.com/users/14348960/diqosh) 
+
+
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diqosh&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diqosh&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diqosh&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diqosh&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diqosh&theme=solarized_dark)
